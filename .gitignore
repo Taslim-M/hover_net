@@ -5,8 +5,11 @@
 cache/
 dataset/
 exp_output/
+test_output/
 
 # checkpoint paths
 *.npz
 *.png
 *.log
+*.ipynb_checkpoints
+.ipynb_checkpoints
